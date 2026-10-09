@@ -2,7 +2,7 @@
 
 RuneArena is a turn-based creature fighting game where you can battle, buy items in the marketplace and level up your creatures. It is inspired by the roman empire and its colosseum. The game is built with React, TypeScript and Vite. 
 
-You can play it on its own deployed [website](rune-arena.vercel.app), or through https://loopland.se/.
+You can play the original version on its own deployed [website](rune-arena.vercel.app), or through https://loopland.se/.
 
 
 ## Features
@@ -28,7 +28,7 @@ You can play it on its own deployed [website](rune-arena.vercel.app), or through
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Otloir/RuneArena.git
+git clone https://github.com/OlofBjorn/RuneArena.git
 cd RuneArena
 ```
 
